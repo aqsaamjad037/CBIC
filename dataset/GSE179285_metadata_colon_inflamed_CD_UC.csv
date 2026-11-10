@@ -1,0 +1,38 @@
+GSM,title,sex,diagnosis,inflammation,tissue,batch,Group
+GSM5413225,1506_UC inflamed sigmoid colon,not determined,Ulcerative colitis,Inflamed,Colon,8,UC
+GSM5413226,1679_UC inflamed sigmoid colon,Male,Ulcerative colitis,Inflamed,Colon,6,UC
+GSM5413228,1339_UC inflamed sigmoid colon,not determined,Ulcerative colitis,Inflamed,Colon,7,UC
+GSM5413230,1908_UC inflamed sigmoid colon,not determined,Ulcerative colitis,Inflamed,Colon,3,UC
+GSM5413231,1904_UC inflamed sigmoid colon,not determined,Ulcerative colitis,Inflamed,Colon,1,UC
+GSM5413233,1820_UC inflamed sigmoid colon,not determined,Ulcerative colitis,Inflamed,Colon,6,UC
+GSM5413234,1349_UC inflamed sigmoid colon,not determined,Ulcerative colitis,Inflamed,Colon,4,UC
+GSM5413236,1328_UC inflamed sigmoid colon,Female,Ulcerative colitis,Inflamed,Colon,6,UC
+GSM5413240,1505_UC inflamed sigmoid colon,not determined,Ulcerative colitis,Inflamed,Colon,7,UC
+GSM5413241,2104_UC inflamed sigmoid colon,not determined,Ulcerative colitis,Inflamed,Colon,2,UC
+GSM5413244,1415_UC inflamed sigmoid colon,not determined,Ulcerative colitis,Inflamed,Colon,1,UC
+GSM5413247,2501_UC inflamed sigmoid colon,not determined,Ulcerative colitis,Inflamed,Colon,4,UC
+GSM5413248,1929_UC inflamed sigmoid colon,not determined,Ulcerative colitis,Inflamed,Colon,5,UC
+GSM5413250,1821_UC inflamed sigmoid colon,not determined,Ulcerative colitis,Inflamed,Colon,re,UC
+GSM5413251,1359_UC inflamed sigmoid colon,not determined,Ulcerative colitis,Inflamed,Colon,6,UC
+GSM5413252,1508_UC inflamed sigmoid colon,not determined,Ulcerative colitis,Inflamed,Colon,4,UC
+GSM5413254,1816_UC inflamed sigmoid colon,not determined,Ulcerative colitis,Inflamed,Colon,3,UC
+GSM5413255,2503_UC inflamed sigmoid colon,not determined,Ulcerative colitis,Inflamed,Colon,4,UC
+GSM5413257,1714_UC inflamed sigmoid colon,Male,Ulcerative colitis,Inflamed,Colon,4,UC
+GSM5413259,2302_UC inflamed sigmoid colon,not determined,Ulcerative colitis,Inflamed,Colon,6,UC
+GSM5413262,1686_UC inflamed sigmoid colon,not determined,Ulcerative colitis,Inflamed,Colon,1,UC
+GSM5413265,1921_UC inflamed sigmoid colon,not determined,Ulcerative colitis,Inflamed,Colon,3,UC
+GSM5413273,1687_UC inflamed ascending/descending colon,not determined,Ulcerative colitis,Inflamed,Colon,7,UC
+GSM5413312,1345_Crohn's inflamed ascending/descending colon,Male,Crohn's disease,Inflamed,Colon,2,CD
+GSM5413341,1336_Crohn's inflamed ascending/descending colon,not determined,Crohn's disease,Inflamed,Colon,5,CD
+GSM5413342,1421_Crohn's inflamed ascending/descending colon,not determined,Crohn's disease,Inflamed,Colon,6,CD
+GSM5413345,1813_Crohn's inflamed ascending/descending colon,not determined,Crohn's disease,Inflamed,Colon,3,CD
+GSM5413350,1413_Crohn's inflamed ascending/descending colon,not determined,Crohn's disease,Inflamed,Colon,3,CD
+GSM5413363,1504_Crohn's inflamed ascending/descending colon,Female,Crohn's disease,Inflamed,Colon,5,CD
+GSM5413380,1507_Crohn's inflamed ascending/descending colon_rep1,not determined,Crohn's disease,Inflamed,Colon,2,CD
+GSM5413381,1507_Crohn's inflamed ascending/descending colon_rep2,not determined,Crohn's disease,Inflamed,Colon,2,CD
+GSM5413382,1507_Crohn's inflamed ascending/descending colon_rep3,not determined,Crohn's disease,Inflamed,Colon,2,CD
+GSM5413383,1507_Crohn's inflamed ascending/descending colon_rep4,not determined,Crohn's disease,Inflamed,Colon,2,CD
+GSM5413392,1332_Crohn's inflamed ascending/descending colon,not determined,Crohn's disease,Inflamed,Colon,7,CD
+GSM5413415,1810_Crohn's inflamed ascending/descending colon,not determined,Crohn's disease,Inflamed,Colon,3,CD
+GSM5413431,1716_Crohn's inflamed ascending/descending colon,Female,Crohn's disease,Inflamed,Colon,1,CD
+GSM5413442,1712_Crohn's inflamed ascending/descending colon,Male,Crohn's disease,Inflamed,Colon,2,CD
